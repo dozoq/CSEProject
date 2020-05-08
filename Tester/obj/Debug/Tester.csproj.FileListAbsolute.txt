@@ -8,3 +8,13 @@ C:\Users\Sebke\source\repos\SProject\Tester\obj\Debug\Tester.csproj.CoreCompileI
 C:\Users\Sebke\source\repos\SProject\Tester\obj\Debug\Tester.csproj.CopyComplete
 C:\Users\Sebke\source\repos\SProject\Tester\obj\Debug\Tester.exe
 C:\Users\Sebke\source\repos\SProject\Tester\obj\Debug\Tester.pdb
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\bin\Debug\Tester.exe.config
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\bin\Debug\Tester.exe
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\bin\Debug\Tester.pdb
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\bin\Debug\MainLib.dll
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\bin\Debug\MainLib.pdb
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\obj\Debug\Tester.csproj.CopyComplete
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\obj\Debug\Tester.exe
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\Tester\obj\Debug\Tester.pdb

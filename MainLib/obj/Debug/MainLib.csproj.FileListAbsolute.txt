@@ -3,3 +3,9 @@ C:\Users\Sebke\source\repos\SProject\MainLib\bin\Debug\MainLib.pdb
 C:\Users\Sebke\source\repos\SProject\MainLib\obj\Debug\MainLib.csproj.CoreCompileInputs.cache
 C:\Users\Sebke\source\repos\SProject\MainLib\obj\Debug\MainLib.dll
 C:\Users\Sebke\source\repos\SProject\MainLib\obj\Debug\MainLib.pdb
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\MainLib\bin\Debug\MainLib.dll
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\MainLib\bin\Debug\MainLib.pdb
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\MainLib\obj\Debug\MainLib.csprojAssemblyReference.cache
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\MainLib\obj\Debug\MainLib.csproj.CoreCompileInputs.cache
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\MainLib\obj\Debug\MainLib.dll
+C:\Users\Sebke\Desktop\ProjektS\CSEProject\MainLib\obj\Debug\MainLib.pdb

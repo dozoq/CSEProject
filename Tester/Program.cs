@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MainLib;
+using MainLib.Game;
+using MainLib.Cards;
 
 namespace Tester
 {
@@ -15,7 +16,10 @@ namespace Tester
             GameManager.InitializeGame(out player);
             GameManager.LevelUpCharacter(ref player );
             GameManager.Save();
-            
+
+            Deck carddeck = new Deck();
+            Console.WriteLine($"{carddeck.Peek().Number} OF {carddeck.Peek().Suit}");
+            Console.ReadKey();
         }
     }
 }

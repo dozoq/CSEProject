@@ -40,9 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Card.cs" />
     <Compile Include="Character.cs" />
     <Compile Include="CharClasses.cs" />
     <Compile Include="CombatManager.cs" />
+    <Compile Include="Deck.cs" />
     <Compile Include="GameManager.cs" />
     <Compile Include="ILivingInterface.cs" />
     <Compile Include="IMovesInterface.cs" />
