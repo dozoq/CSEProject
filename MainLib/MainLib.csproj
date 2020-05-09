@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Blackjack.cs" />
     <Compile Include="Card.cs" />
     <Compile Include="Character.cs" />
     <Compile Include="CharClasses.cs" />

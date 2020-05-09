@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MainLib.Game;
 using MainLib.Cards;
+using MainLib.Blackjack;
 
 namespace Tester
 {
@@ -29,6 +30,8 @@ namespace Tester
                 Console.WriteLine( $"{card.Number} OF {card.Suit}" );
             }
             Console.ReadKey();
+
+            Blackjack blackjack = new Blackjack();
         }
     }
 }
