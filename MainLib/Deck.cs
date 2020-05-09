@@ -25,6 +25,9 @@ namespace MainLib.Cards
         }
 
         public Card Peek() { return Cards.Peek(); }
+        public void ShuffleDeck() { Cards.Shuffle(); }
+
+        public Card Draw() { return Cards.Pop(); }
 
     }
 }

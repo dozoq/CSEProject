@@ -17,8 +17,17 @@ namespace Tester
             GameManager.LevelUpCharacter(ref player );
             GameManager.Save();
 
+            List<Card> PlayerHand = new List<Card>( 5 );
             Deck carddeck = new Deck();
-            Console.WriteLine($"{carddeck.Peek().Number} OF {carddeck.Peek().Suit}");
+            carddeck.ShuffleDeck();
+            for (int i = 0 ; i<5 ; i++)
+            {
+                PlayerHand.Add(carddeck.Draw());
+            }
+            foreach (Card card in PlayerHand)
+            {
+                Console.WriteLine( $"{card.Number} OF {card.Suit}" );
+            }
             Console.ReadKey();
         }
     }

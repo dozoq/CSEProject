@@ -60,11 +60,12 @@ namespace MainLib.Game
             }
             catch (System.IO.IOException e)
             {
+                Console.WriteLine( "Game not saved properly" );
                 Console.WriteLine( e );
             }
             finally
             {
-                Console.WriteLine("Game not saved properly");
+                Console.WriteLine("Saving Ended");
             }
         }
     }
