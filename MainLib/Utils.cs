@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MainLib
+namespace MainLib.Utils
 {
     public static class Utils
     {
